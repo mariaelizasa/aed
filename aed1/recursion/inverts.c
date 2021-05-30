@@ -10,6 +10,7 @@ void inverte(char *frase){
  
 
 int main() {
+    printf("QUESTAO 2");
      char frase[100];
      puts("Digite uma frase:");
      fgets(frase, 100, stdin);

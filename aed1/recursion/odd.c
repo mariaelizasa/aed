@@ -14,6 +14,7 @@ int odd(int a){
  
 }
 int main() {
+    printf("QUESTAO 1");
     int a;
     printf("\nDigite um número:");
     scanf("%i", &a);

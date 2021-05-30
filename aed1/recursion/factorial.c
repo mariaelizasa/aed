@@ -10,6 +10,7 @@ int fatorial(int a){
 }
   
 int main() {
+    printf("QUESTAO 3");
     int a, result;
     printf("\nDigite um número:");
     scanf("%i", &a);

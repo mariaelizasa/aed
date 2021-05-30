@@ -12,7 +12,7 @@ void hanoi(int num, int origem, int dest, int trab){
 }
 
 int main(){
-  
+  printf("QUESTAO 4");
   int num;
   printf("\nDigite o numero de discos: ");
   scanf("%i", &num);
