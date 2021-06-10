@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Main{
+
+public static void main(String[] args) {
+
+float i, min, max, num;
+System.out.println("Digite dois números para definir o intervalo: ");
+
+Scanner ler = new Scanner(System.in);
+
+min = ler.nextInt();
+max = ler.nextInt();
+
+for (i = min; i <= max; i++) {
+num = i%2;
+if (num%2 == 0){
+System.out.printf("Número par: %.1f\n", i);
+
+}}}}
